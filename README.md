@@ -149,8 +149,7 @@ final-project-data-analyst/
 
 ## Author
 
-- **Name:** [Your name]
+- **Name:** Karin Ortiz
 - **Program:** Data Analyst Bootcamp — TripleTen
-- **Date:** [Delivery date]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your email]
+- **Date:** March 9 2026
+- **Email:** yamir.ortiz9024@gmail.com
